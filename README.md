@@ -2,5 +2,5 @@
 
 # Данные для входа
 
-login: talalakin
+login: talalakin;
 pass: talalakin
